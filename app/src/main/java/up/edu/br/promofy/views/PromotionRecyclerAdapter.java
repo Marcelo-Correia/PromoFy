@@ -59,7 +59,7 @@ public class PromotionRecyclerAdapter extends RecyclerView.Adapter<PromotionRecy
         public PromitionView(@NonNull View itemView) {
             super(itemView);
 
-            // Set data in the view
+            itemView.setOnClickListener(this);
             txtDescription = itemView.findViewById(R.id.txtDescription);
             txtOriginalPrice = itemView.findViewById(R.id.txtOriginalPrice);
             txtPromotionalPrice = itemView.findViewById(R.id.txtPromotionalPrice);
