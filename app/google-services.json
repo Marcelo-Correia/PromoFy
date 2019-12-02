@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "358203881383",
+    "firebase_url": "https://promofy-9879b.firebaseio.com",
+    "project_id": "promofy-9879b",
+    "storage_bucket": "promofy-9879b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358203881383:android:0e94d81c46e2d297d0e882",
+        "android_client_info": {
+          "package_name": "up.edu.br.promofy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358203881383-5l7kt3u84ekiq5pmc0s8n2ogc4qvf2ls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlnHjHjNRTonl0g8OuBVssZ7WNTlZ46J4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358203881383-5l7kt3u84ekiq5pmc0s8n2ogc4qvf2ls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

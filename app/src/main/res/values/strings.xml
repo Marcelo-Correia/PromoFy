@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PromoFy</string>
+    <string name="title_activity_teste">Teste</string>
+    <string name="title_activity_promotion_detail">PromotionDetail</string>
+</resources>
